@@ -1,0 +1,4 @@
+repository "spil_test/spil_test@5773927499735@cloud"
+  path "/"
+    br "/main"
+    co "/main"
